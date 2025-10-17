@@ -3,7 +3,7 @@
 
 document.querySelector(".add-edu").onclick = function() {
     
-    document.querySelector("p").textContent = "software emgineer";
+    document.querySelector("p").textContent = "software engineer";
     
 }
 
