@@ -1,0 +1,13 @@
+
+.arrange {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-items: center;
+}
+.dark-mode {
+ background-color: #333;
+        color: white;
+}
+       
